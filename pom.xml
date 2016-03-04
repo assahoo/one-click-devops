@@ -5,7 +5,7 @@
   <artifactId>One_Click</artifactId>
   <packaging>war</packaging>
   <version>1</version>
-  <name>One_Click</name>
+  <name>One_Click<name>
   <url>http://maven.apache.org</url>
   
   <build>
